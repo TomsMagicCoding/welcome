@@ -1,0 +1,61 @@
+
+
+
+#intro {
+  background-color: #23374d;
+  /* background-color: #b5525c; */
+  /* background-color: #fab95b; */
+  padding-bottom: 150px;
+
+
+}
+
+.welcome {
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+
+.card-group {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #293462;
+}
+
+.card-img-top {
+  width: 80%;
+  padding-top: 10px;
+  padding-left: 30px;
+
+}
+
+.card-img-top-middle {
+  padding-bottom: 30px;
+}
+
+.card-img-top-bottom {
+  padding-bottom: 10px;
+}
+
+.card-text, .card-text-2{
+  font-family: 'Lato', sans-serif;
+}
+
+#contact {
+  color: #293462;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+.fab, .fas {
+  font-size: 3rem;
+  padding-left: 10px;
+}
